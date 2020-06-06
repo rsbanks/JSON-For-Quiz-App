@@ -1,8 +1,8 @@
 [
   {
   
-  "question":"Whats the keyword for declaring a new variable?",
-  "answers":["var","v","variable"],
+  "question":"How does Harry manage to breathe underwater during the second task of the Triwizard Tournament?",
+  "answers":["He transfigures into a shark", "He kisses a mermaid", "He eats gillyweed", "He performs a bubble-head charm"],
   "correctAnswerIndex":0,
   "feedback":"var is the keyword used to declare a new variable"
 
