@@ -4,7 +4,7 @@
   "question":"How does Harry manage to breathe underwater during the second task of the Triwizard Tournament?",
   "answers":["He transfigures into a shark", "He kisses a mermaid", "He eats gillyweed", "He performs a bubble-head charm"],
   "correctAnswerIndex":2,
-  "feedback":"Harry eats gillyweed to breathe underwater during the second task of the Triwizard Tournament"
+  "feedback":"Harry eats gillyweed to breathe underwater during the second task of the Triwizard Tournament."
 
   },
   {
@@ -12,7 +12,47 @@
   "question":"What is the name of Fred and George’s joke shop?",
   "answers":["Weasley Joke Emporium", "Weasleys’ Wizard Wheezes", "Fred & George’s Wonder Emporium", "Zonko’s Joke Shop"],
   "correctAnswerIndex":1,
-  "feedback":"Fred and George’s joke shop is called Weasleys’ Wizard Wheezes"
+  "feedback":"Fred and George’s joke shop is called Weasleys’ Wizard Wheezes."
+
+  },
+  {
+  
+  "question":"Which of these is NOT one of the Unforgivable Curses?",
+  "answers":["Cruciatus Curse", "Imperius Curse", "Sectumsempra", "Avada Kedavra"],
+  "correctAnswerIndex":2,
+  "feedback":"The three unforgivable curses are Cruciatus Curse, Imperius Curse, Avada Kedavra."
+
+  },
+  {
+  
+  "question":"Who played Lord Voldemort in the movies?",
+  "answers":["Jeremy Irons", "Tom Hiddleston", "Gary Oldman", "Ralph Fiennes"],
+  "correctAnswerIndex":3,
+  "feedback":"Ralph Fiennes played Lord Voldemort in the movies."
+
+  },
+  {
+  
+  "question":"Who guards the entrance to the Gryffindor common room",
+  "answers":["The Grey Lady", "The Fat Friar", "The Bloody Baron", "The Fat Lady"],
+  "correctAnswerIndex":3,
+  "feedback":"FThe Fat Lady guards the entrance to the Gryffindor common room."
+
+  }
+  {
+  
+  "question":"Who is NOT a member of the Order of the Phoenix?",
+  "answers":["Cornelius Fudge", "Mad-eye Moody", "Professor Snape", "Remus Lupin"],
+  "correctAnswerIndex":0,
+  "feedback":"Cornelius Fudge is not a member of the Order of the Phoenix, he is the Minister for Magic."
+
+  },
+  {
+  
+  "question":"A wizard who cannot do magic is known as a:",
+  "answers":["Bleaker", "Squib", "Duddle", "Wizont"],
+  "correctAnswerIndex":1,
+  "feedback":"Fred and George’s joke shop is called Weasleys’ Wizard Wheezes."
 
   }
 
