@@ -20,7 +20,7 @@
   "question":"Which of these is NOT one of the Unforgivable Curses?",
   "answers":["Cruciatus Curse", "Imperius Curse", "Sectumsempra", "Avada Kedavra"],
   "correctAnswerIndex":2,
-  "feedback":"The three unforgivable curses are Cruciatus Curse, Imperius Curse, Avada Kedavra."
+  "feedback":"The three unforgivable curses are Cruciatus Curse, Imperius Curse, Avada Kedavra. Sectumsempra is a curse invented by Professor Severus Snape that lacerates the target and causes severe haemorrhaging. Snape created it as a student of Hogwarts, with the intention of using it against his enemies, likely including the Marauders, and it became one of his specialties."
 
   },
   {
@@ -36,7 +36,7 @@
   "question":"Who guards the entrance to the Gryffindor common room",
   "answers":["The Grey Lady", "The Fat Friar", "The Bloody Baron", "The Fat Lady"],
   "correctAnswerIndex":3,
-  "feedback":"FThe Fat Lady guards the entrance to the Gryffindor common room."
+  "feedback":"The Fat Lady guards the entrance to the Gryffindor common room."
 
   },
   {
@@ -52,7 +52,7 @@
   "question":"A wizard who cannot do magic is known as a:",
   "answers":["Bleaker", "Squib", "Duddle", "Wizont"],
   "correctAnswerIndex":1,
-  "feedback":"Fred and George’s joke shop is called Weasleys’ Wizard Wheezes."
+  "feedback":"A wizard who cannot do magic is known as a squib"
 
   }
 
